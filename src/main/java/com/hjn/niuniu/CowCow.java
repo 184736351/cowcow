@@ -19,6 +19,7 @@ public class CowCow {
 				CARDS[i*13+j]=(i+1)*100+(j+1);
 			}
 		}
+		
 //		for (int i = 0; i < CARDS.length; i++) {
 //			System.out.print(CARDS[i]+" ");
 //			if ((i+1)%13==0) {
